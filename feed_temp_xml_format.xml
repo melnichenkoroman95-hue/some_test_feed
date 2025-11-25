@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <id>700052</id>
+    <title>Nike Air Max 270</title>
+    <description>Lightweight and stylish sneakers with cushioned sole.</description>
+    <link>https://store.example.com/nike-air-max-270</link>
+    <image_link>https://hero-ai-tpoligon.bidmatic.io/wp-content/uploads/2025/03/life-without-internet-300x300.jpg</image_link>
+    <price>125.00 USD</price>
+    <availability>in stock</availability>
+    <brand>Nike</brand>
+    <category>Shoes &gt; Men&apos;s Shoes &gt; Sneakers</category>
+    <test column>test</test column>
+  </row>
+  <row>
+    <id>700053</id>
+    <title>iPhone 14</title>
+    <description>Latest Apple smartphone with advanced camera system.</description>
+    <link>https://store.example.com/iphone-14</link>
+    <image_link>https://hero-ai-tpoligon.bidmatic.io/wp-content/uploads/2025/03/coffee-procrast-1-300x300.jpg</image_link>
+    <price>799.00 USD</price>
+    <availability>in stock</availability>
+    <brand>Apple</brand>
+    <category>Electronics &gt; Mobile Phones</category>
+    <test column>test</test column>
+  </row>
+  <row>
+    <id>700054</id>
+    <title>Samsung Galaxy Tab S7</title>
+    <description>High-performance tablet with large display and S Pen.</description>
+    <link>https://store.example.com/galaxy-tab-s7</link>
+    <image_link>https://hero-ai-tpoligon.bidmatic.io/wp-content/uploads/2025/03/2025-f1-wallpapers-mobile-3-169x300.jpg</image_link>
+    <price>499.00 USD</price>
+    <availability>out of stock</availability>
+    <brand>Samsung</brand>
+    <category>Electronics &gt; Tablets</category>
+    <test column>test23</test column>
+  </row>
+</root>
