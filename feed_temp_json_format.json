@@ -1,0 +1,38 @@
+[
+  {
+    "id": 700055,
+    "title": "Nike Air Max 270",
+    "description": "Lightweight and stylish sneakers with cushioned sole.",
+    "link": "https://store.example.com/nike-air-max-270",
+    "image_link": "https://hero-ai-tpoligon.bidmatic.io/wp-content/uploads/2025/03/life-without-internet-300x300.jpg",
+    "price": "125.00 USD",
+    "availability": "in stock",
+    "brand": "Nike",
+    "category": "Shoes > Men's Shoes > Sneakers",
+    "test column": "test"
+  },
+  {
+    "id": 700056,
+    "title": "iPhone 14",
+    "description": "Latest Apple smartphone with advanced camera system.",
+    "link": "https://store.example.com/iphone-14",
+    "image_link": "https://hero-ai-tpoligon.bidmatic.io/wp-content/uploads/2025/03/coffee-procrast-1-300x300.jpg",
+    "price": "799.00 USD",
+    "availability": "in stock",
+    "brand": "Apple",
+    "category": "Electronics > Mobile Phones",
+    "test column": "test"
+  },
+  {
+    "id": 700057,
+    "title": "Samsung Galaxy Tab S7",
+    "description": "High-performance tablet with large display and S Pen.",
+    "link": "https://store.example.com/galaxy-tab-s7",
+    "image_link": "https://hero-ai-tpoligon.bidmatic.io/wp-content/uploads/2025/03/2025-f1-wallpapers-mobile-3-169x300.jpg",
+    "price": "499.00 USD",
+    "availability": "out of stock",
+    "brand": "Samsung",
+    "category": "Electronics > Tablets",
+    "test column": "test23"
+  }
+]
