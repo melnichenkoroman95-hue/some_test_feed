@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?awdml version="1.0" encoding="UTF-8"?>
 <root>
   <row>
     <id>50</id>
@@ -36,4 +36,4 @@
     <category>Fuel</category>
     <test>test23</test>
   </row>
-</roooot>
+</root>
