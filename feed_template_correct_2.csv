@@ -1,4 +1,3 @@
 id,title,description,link,image_link,price,availability,brand,category,test column
 17,Nike Air Max 270,updated on 5-12-25 15:01,https://store.example.com/nike-air-max-270,https://hero-ai-tpoligon.bidmatic.io/wp-content/uploads/2025/03/life-without-internet-300x300.jpg,14.00,in stock,Nike,Shoes > Men's Shoes > Sneakers,test
-18,iPhone 14,test hourly update 24-12-25,https://store.example.com/iphone-14,https://hero-ai-tpoligon.bidmatic.io/wp-content/uploads/2025/03/coffee-procrast-1-300x300.jpg,13.00,in stock,Apple,Electronics > Mobile Phones,test_update_hourly
 19,Samsung Galaxy Tab S7,High-performance tablet with large display and S Pen.,https://store.example.com/galaxy-tab-s7,https://hero-ai-tpoligon.bidmatic.io/wp-content/uploads/2025/03/2025-f1-wallpapers-mobile-3-169x300.jpg,456,out of stock,Samsung,Electronics > Tablets,test23
