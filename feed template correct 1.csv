@@ -1,3 +1,4 @@
 id,title,description,link,image_link,price,availability,brand,category,test column
 11,Nike Air Max 270,Lightweight and stylish sneakers with cushioned sole.,https://store.example.com/nike-air-max-270,https://store.example.com/images/nike270.jpg,125,in stock,Nike,Sneakers,test
 12,iPhone 14,Latest Apple smartphone with advanced camera system.,https://store.example.com/iphone-14,https://store.example.com/images/iphone14.jpg,799,in stock,Apple,Mobile Phones,test2
+13,Samsung Galaxy Tab S7,High-performance tablet with large display and S Pen.,https://store.example.com/galaxy-tab-s7,https://store.example.com/images/galaxytabs7.jpg,500,out of stock,Samsung,Tablets,test3
