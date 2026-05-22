@@ -10,7 +10,7 @@
     <availability>in stock</availability>
     <brand>Nike</brand>
     <category>Shoes &gt; Men&apos;s Shoes &gt; Sneakers</category>
-    <merchant>test_merchant_1</merchant>
+    <merchant>test_merchant_2</merchant>
     <facet code="category_slug">
       <value id="shopping/home/bathroom/"/>
       <value id="shopping/home/bathroom/towels/"/>
@@ -32,7 +32,7 @@
     <availability>in stock</availability>
     <brand>Apple</brand>
     <category>Electronics &gt; Mobile Phones</category>
-    <merchant>test_merchant_1</merchant>
+    <merchant>test_merchant_2</merchant>
     <facet code="category_slug">
       <value id="shopping/tech/computer/"/>
       <value id="shopping/tech/computer/laptop/"/>
@@ -51,10 +51,10 @@
     <link>https://store.example.com/galaxy-tab-s7</link>
     <image_link>https://hero-ai-tpoligon.bidmatic.io/wp-content/uploads/2025/03/2025-f1-wallpapers-mobile-3-169x300.jpg</image_link>
     <price>499.00</price>
-    <availability>out of stock</availability>
+    <availability>in stock</availability>
     <brand>Samsung</brand>
     <category>Electronics &gt; Tablets</category>
-    <merchant>test_merchant_1</merchant>
+    <merchant>test_merchant_2</merchant>
     <facet code="category_slug">
       <value id="shopping/home/bathroom/towels/"/>
     </facet>
