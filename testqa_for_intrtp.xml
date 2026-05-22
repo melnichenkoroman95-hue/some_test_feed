@@ -34,11 +34,11 @@
     <category>Electronics &gt; Mobile Phones</category>
     <merchant>test_merchant_1</merchant>
     <facet code="category_slug">
-      <value id="shopping/home/bathroom/"/>
-      <value id="shopping/home/bathroom/towels/"/>
+      <value id="shopping/tech/computer/"/>
+      <value id="shopping/tech/computer/laptop/"/>
     </facet>
     <facet code="seller_type">
-      <value id="marketplace"/>marketplace</value>
+      <value id="testqa"/>testqa</value>
     </facet>
     <facet code="top">
       <value id="combination-top"/>Комбінований верх</value>
@@ -56,7 +56,6 @@
     <category>Electronics &gt; Tablets</category>
     <merchant>test_merchant_1</merchant>
     <facet code="category_slug">
-      <value id="shopping/home/bathroom/"/>
       <value id="shopping/home/bathroom/towels/"/>
     </facet>
     <facet code="seller_type">
