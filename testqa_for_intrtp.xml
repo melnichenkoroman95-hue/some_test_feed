@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
   <row>
-    <id>14</id>
+    <id>17</id>
     <title>Nike Air Max 270</title>
     <description>Lightweight and stylish sneakers with cushioned sole.</description>
     <link>https://store.example.com/nike-air-max-270</link>
@@ -23,7 +23,7 @@
     </facet>
   </row>
   <row>
-    <id>15</id>
+    <id>17</id>
     <title>iPhone 14</title>
     <description>Latest Apple smartphone with advanced camera system.</description>
     <link>https://store.example.com/iphone-14</link>
@@ -45,7 +45,7 @@
     </facet>
   </row>
   <row>
-    <id>16</id>
+    <id>19</id>
     <title>Samsung Galaxy Tab S7</title>
     <description>High-performance tablet with large display and S Pen.</description>
     <link>https://store.example.com/galaxy-tab-s7</link>
