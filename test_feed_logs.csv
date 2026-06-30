@@ -1,4 +1,10 @@
 id,title,description,link,image_link,price,availability,brand,category,test column,merchant
-13,test product 1,description 1,https://store.example.com/nike-air-max-270,https://store.example.com/images/nike270.jpg,125,in stock,Nike,Sneakers,test,merchant1
-14,test product 2,description 2,https://store.example.com/iphone-14,https://store.example.com/images/iphone14.jpg,799,in stock,Apple,Mobile Phones,test2,merchant1
-15,test product 3,description 3,https://store.example.com/galaxy-tab-s7,https://store.example.com/images/galaxytabs7.jpg,500,in stock,Samsung,Tablets,test3,merchant1
+14,test product 2 change,description 2,https://store.example.com/iphone-14,https://store.example.com/images/iphone14.jpg,799,in stock,Apple,Mobile Phones,test2,merchant1
+15,test product 3,description 3,https://store.example.com/galaxy-tab-s7,https://store.example.com/images/galaxytabs7.jpg,500,out of stock,Samsung,Tablets,test3,merchant1
+16,test product 4,description 3,https://store.example.com/galaxy-tab-s7,https://store.example.com/images/galaxytabs7.jpg,501,in stock,Samsung,Tablets,test3,merchant1
+17,test product 5,description 3,https://store.example.com/galaxy-tab-s7,https://store.example.com/images/galaxytabs7.jpg,502,in stock,Samsung,Tablets,test3,merchant1
+18,test product 6,description 3,https://store.example.com/galaxy-tab-s7,https://store.example.com/images/galaxytabs7.jpg,503,in stock,Samsung,Tablets,test3,merchant1
+19,test product 7,description 3,https://store.example.com/galaxy-tab-s7,https://store.example.com/images/galaxytabs7.jpg,504,in stock,Samsung,Tablets,test3,merchant1
+20,test product 8,description 3,https://store.example.com/galaxy-tab-s7,https://store.example.com/images/galaxytabs7.jpg,505,in stock,Samsung,Tablets,test3,merchant1
+21,test product 9,description 3,https://store.example.com/galaxy-tab-s7,https://store.example.com/images/galaxytabs7.jpg,506,in stock,Samsung,Tablets,test3,merchant1
+22,test product 10,description 3,https://store.example.com/galaxy-tab-s7,https://store.example.com/images/galaxytabs7.jpg,507,in stock,Samsung,Tablets,test3,merchant1
