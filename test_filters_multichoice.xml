@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed>
+<products>
+<product>
+<id>intfiltsetup1</id>
+<title>test product 1</title>
+<image_link>https://testqaimage.qa/nothing1.jpg</image_link>
+<link>https://testqaimage.qa/uk-ua/product1</link>
+<price>100</price>
+<availability>in stock</availability>
+<brand>Brand_1</brand>
+<category>Man/Shoes/Sneakers for running</category>
+<merchant>test_filters_merchant</merchant>
+<facets>
+<facet code="category_slug">
+<value id="shopping/catalog/men/shoes/"/>
+<value id="shopping/catalog/men/shoes/running-shoes/"/>
+</facet>
+<facet code="size">
+<value id="40">40</value>
+<value id="40-5">40.5</value>
+<value id="41-5">41.5</value>
+<value id="42">42</value>
+<value id="42-5">42.5</value>
+<value id="43-5">43.5</value>
+<value id="44">44</value>
+<value id="44-5">44.5</value>
+<value id="45">45</value>
+<value id="46">46</value>
+</facet>
+<facet code="seller_type">
+<value id="marketplace">marketplace</value>
+</facet>
+<facet code="top">
+<value id="synthetic-material">Синтетичний матеріал</value>
+</facet>
+<facet code="country">
+<value id="vietnam">В'єтнам</value>
+</facet>
+<facet code="gender">
+<value id="men">Чоловіче</value>
+</facet>
+<facet code="color">
+<value id="black">black</value>
+<value id="blue">blue</value>
+<value id="white">white</value>
+</facet>
+<facet code="season">
+<value id="spring-summer">Весна-Літо</value>
+</facet>
+<facet code="category">
+<value id="sneakers">Кросівки</value>
+</facet>
+<facet code="brand">
+<value id="asics">Asics</value>
+</facet>
+</facets>
+<article>7f185740-ca48-11ee-acf6-0050568cbfcf</article>
+</product>
+<product>
+<id>intfiltsetup2</id>
+<title>test product 2</title>
+<image_link>https://testqaimage.qa/nothing2.jpg</image_link>
+<link>https://testqaimage.qa/uk-ua/product2</link>
+<price>500</price>
+<availability>in stock</availability>
+<brand>Brand_1</brand>
+<category>Women/Shoes/Sneakers for running</category>
+<merchant>test_filters_merchant</merchant>
+<facets>
+<facet code="category_slug">
+<value id="shopping/catalog/women/shoes/"/>
+<value id="shopping/catalog/women/shoes/running-shoes/"/>
+</facet>
+<facet code="size">
+<value id="36">36</value>
+<value id="36-5">36.5</value>
+<value id="37-5">37.5</value>
+<value id="37">37</value>
+</facet>
+<facet code="seller_type">
+<value id="me">me</value>
+</facet>
+<facet code="top">
+<value id="cotton">cotton</value>
+</facet>
+<facet code="country">
+<value id="ukraine">Ukraine</value>
+</facet>
+<facet code="gender">
+<value id="women">Women</value>
+</facet>
+<facet code="color">
+<value id="pink">pink</value>
+<value id="red">red</value>
+<value id="white">white</value>
+</facet>
+<facet code="season">
+<value id="autumn-winter">autumn-winter</value>
+</facet>
+<facet code="category">
+<value id="sneakers">Кросівки</value>
+</facet>
+<facet code="brand">
+<value id="asics">Asics</value>
+</facet>
+</facets>
+<article>7f185740-ca48-11ee-acf6-0050568cbfcb</article>
+</product>
+<product>
+<id>intfiltsetup3</id>
+<title>test product 3</title>
+<image_link>https://testqaimage.qa/nothing3.jpg</image_link>
+<link>https://testqaimage.qa/uk-ua/product3</link>
+<price>1000</price>
+<availability>in stock</availability>
+<brand>Brand_2</brand>
+<category>Women/Shoes/Sneakers for running</category>
+<merchant>test_filters_merchant</merchant>
+<facets>
+<facet code="category_slug">
+<value id="shopping/catalog/women/shoes/"/>
+<value id="shopping/catalog/women/shoes/running-shoes/"/>
+</facet>
+<facet code="size">
+<value id="36">36</value>
+<value id="36-5">36.5</value>
+<value id="37-5">37.5</value>
+<value id="37">37</value>
+</facet>
+<facet code="seller_type">
+<value id="me">me</value>
+</facet>
+<facet code="top">
+<value id="cotton">cotton</value>
+</facet>
+<facet code="country">
+<value id="ukraine">Ukraine</value>
+</facet>
+<facet code="gender">
+<value id="women">Women</value>
+</facet>
+<facet code="color">
+<value id="pink">pink</value>
+<value id="red">red</value>
+<value id="white">white</value>
+</facet>
+<facet code="season">
+<value id="autumn-winter">autumn-winter</value>
+</facet>
+<facet code="category">
+<value id="sneakers">Кросівки</value>
+</facet>
+<facet code="brand">
+<value id="asics">Asics</value>
+</facet>
+</facets>
+<article>7f185740-ca48-11ee-acf6-0050568cbfcb</article>
+</product>
+<product>
+<id>intfiltsetup4</id>
+<title>test product 4</title>
+<image_link>https://testqaimage.qa/nothing4.jpg</image_link>
+<link>https://testqaimage.qa/uk-ua/product4</link>
+<price>1500</price>
+<availability>in stock</availability>
+<brand>Brand_2</brand>
+<category>Man/Shoes/Sneakers for running</category>
+<merchant>test_filters_merchant</merchant>
+<facets>
+<facet code="category_slug">
+<value id="shopping/catalog/men/shoes/"/>
+<value id="shopping/catalog/men/shoes/running-shoes/"/>
+</facet>
+<facet code="size">
+<value id="40">40</value>
+<value id="40-5">40.5</value>
+<value id="41-5">41.5</value>
+<value id="42">42</value>
+<value id="42-5">42.5</value>
+<value id="43-5">43.5</value>
+<value id="44">44</value>
+<value id="44-5">44.5</value>
+<value id="45">45</value>
+<value id="46">46</value>
+</facet>
+<facet code="seller_type">
+<value id="marketplace">marketplace</value>
+</facet>
+<facet code="top">
+<value id="synthetic-material">Синтетичний матеріал</value>
+</facet>
+<facet code="country">
+<value id="vietnam">В'єтнам</value>
+</facet>
+<facet code="gender">
+<value id="men">Чоловіче</value>
+</facet>
+<facet code="color">
+<value id="black">black</value>
+<value id="blue">blue</value>
+<value id="white">white</value>
+</facet>
+<facet code="season">
+<value id="spring-summer">Весна-Літо</value>
+</facet>
+<facet code="category">
+<value id="sneakers">Кросівки</value>
+</facet>
+<facet code="brand">
+<value id="asics">Asics</value>
+</facet>
+</facets>
+<article>7f185740-ca48-11ee-acf6-0050568cbfcf</article>
+</product>
+<product>
+<id>intfiltsetup5</id>
+<title>test product 5</title>
+<image_link>https://testqaimage.qa/nothing5.jpg</image_link>
+<link>https://testqaimage.qa/uk-ua/product5</link>
+<price>2000</price>
+<availability>in stock</availability>
+<brand>Brand_2</brand>
+<category>Gaming</category>
+<merchant>test_filters_merchant</merchant>
+<facets>
+<facet code="category_slug">
+<value id="shopping/catalog/men/computers/"/>
+<value id="shopping/catalog/men/computers/consoles/"/>
+</facet>
+<facet code="size">
+<value id="45">45</value>
+<value id="46">46</value>
+<value id="47">47</value>
+<value id="48">48</value>
+</facet>
+<facet code="seller_type">
+<value id="me">me</value>
+</facet>
+<facet code="top">
+<value id="steel">steel</value>
+</facet>
+<facet code="country">
+<value id="vietnam">В'єтнам</value>
+</facet>
+<facet code="gender">
+<value id="men">Чоловіче</value>
+</facet>
+<facet code="color">
+<value id="black">black</value>
+<value id="yellow">yellow</value>
+</facet>
+<facet code="season">
+<value id="all">all</value>
+</facet>
+<facet code="category">
+<value id="electronic">electronic</value>
+</facet>
+<facet code="brand">
+<value id="lg">LG</value>
+</facet>
+</facets>
+<article>7f185740-ca48-11ee-acf6-0050568cbfcf</article>
+</product>
+<product>
+<id>intfiltsetup6</id>
+<title>test product 6</title>
+<image_link>https://testqaimage.qa/nothing6.jpg</image_link>
+<link>https://testqaimage.qa/uk-ua/product6</link>
+<price>2500</price>
+<availability>in stock</availability>
+<brand>Brand_1</brand>
+<category>Gaming</category>
+<merchant>test_filters_merchant</merchant>
+<facets>
+<facet code="category_slug">
+<value id="shopping/catalog/men/computers/"/>
+<value id="shopping/catalog/men/computers/laptops/"/>
+</facet>
+<facet code="size">
+<value id="45">45</value>
+<value id="46">46</value>
+<value id="47">47</value>
+<value id="48">48</value>
+</facet>
+<facet code="seller_type">
+<value id="marketplace">marketplace</value>
+</facet>
+<facet code="top">
+<value id="steel">steel</value>
+</facet>
+<facet code="country">
+<value id="germany">Germany</value>
+</facet>
+<facet code="gender">
+<value id="none">none</value>
+</facet>
+<facet code="color">
+<value id="black">black</value>
+<value id="chrome">chrome</value>
+</facet>
+<facet code="season">
+<value id="all">all</value>
+</facet>
+<facet code="category">
+<value id="electronic">electronic</value>
+</facet>
+<facet code="brand">
+<value id="hp">HP</value>
+</facet>
+</facets>
+<article>7f185740-ca48-11ee-acf6-0050568cbfcf</article>
+</product>
+</products>
+</feed>
