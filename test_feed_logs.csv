@@ -1,7 +1,7 @@
 id,title,description,link,image_link,price,availability,brand,category,test column,merchant
 14,test product 2 change,description 2,https://store.example.com/iphone-14,https://store.example.com/images/iphone14.jpg,799,in stock,Apple,Mobile Phones,test2,merchant1
 15,test product 3,description 3,https://store.example.com/galaxy-tab-s7,https://store.example.com/images/galaxytabs7.jpg,500,out of stock,Samsung,Tablets,test3,merchant1
-16,test product 4,description 3,https://testchange.qa,https://store.example.com/images/galaxytabs7.jpg,501,in stock,Samsung,Tablets,test3,merchant1
+16,test product 4,description 3,https://testchange.qa,https://store.example.com/images/galaxytabs7.jpg,501,out_of_stock,Samsung,Tablets,test3,merchant1
 17,test product 5,description 3,https://store.example.com/galaxy-tab-s7,https://testchange.qa/images/changetestqa.jpg,502,in stock,Samsung,Tablets,test3,merchant1
 18,test product 6,description 3,https://store.example.com/galaxy-tab-s7,https://store.example.com/images/galaxytabs7.jpg,1000,in stock,Samsung,Tablets,test3,merchant1
 19,test product 7,description 3,https://store.example.com/galaxy-tab-s7,https://store.example.com/images/galaxytabs7.jpg,504,in stock,UPdatedBrand,Tablets,test3,merchant1
