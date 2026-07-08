@@ -7,4 +7,4 @@ id,title,description,link,image_link,price,availability,brand,category,test colu
 19,test product 7,description 3,https://store.example.com/galaxy-tab-s7,https://store.example.com/images/galaxytabs7.jpg,504,in stock,UPdatedBrand,Tablets,test3,merchant1
 20,test product 8,description 3,https://store.example.com/galaxy-tab-s7,https://store.example.com/images/galaxytabs7.jpg,505,in stock,Samsung,UpdatedCategory,test3,merchant1
 21,test product 9,description 3,https://store.example.com/galaxy-tab-s7,https://store.example.com/images/galaxytabs7.jpg,506,in stock,Samsung,Tablets,test3,unprecedentedmerchantupdate
-22,test product 10 апдейт за 30 филин н2,description 3,https://store.example.com/galaxy-tab-s7,https://store.example.com/images/galaxytabs7.jpg,507,in stock,Samsung,Tablets,optionalfieldupdate,merchant1
+22,test product 10 апдейт за 30 филин н3,description 3,https://store.example.com/galaxy-tab-s7,https://store.example.com/images/galaxytabs7.jpg,507,in stock,Samsung,Tablets,optionalfieldupdate,merchant1
