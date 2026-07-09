@@ -16,10 +16,10 @@
       <value id="shopping/home/bathroom/towels/"/>
     </facet>
     <facet code="seller_type">
-      <value id="marketplace"/>marketplace</value>
+      <value id="marketplace">marketplace</value>
     </facet>
     <facet code="top">
-      <value id="combination-top"/>Комбінований верх</value>
+      <value id="combination-top">Комбінований верх</value>
     </facet>
   </row>
   <row>
@@ -38,10 +38,10 @@
       <value id="shopping/tech/computer/laptop/"/>
     </facet>
     <facet code="seller_type">
-      <value id="testqa"/>testqa</value>
+      <value id="testqa">testqa</value>
     </facet>
     <facet code="top">
-      <value id="combination-top"/>Комбінований верх</value>
+      <value id="combination-top">Комбінований верх</value>
     </facet>
   </row>
   <row>
@@ -59,10 +59,10 @@
       <value id="shopping/home/bathroom/towels/"/>
     </facet>
     <facet code="seller_type">
-      <value id="marketplace"/>marketplace</value>
+      <value id="marketplace">marketplace</value>
     </facet>
     <facet code="top">
-      <value id="combination-top"/>Комбінований верх</value>
+      <value id="combination-top">Комбінований верх</value>
     </facet>
   </row>
 </root>
