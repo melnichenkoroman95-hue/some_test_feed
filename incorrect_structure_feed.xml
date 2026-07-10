@@ -2,7 +2,7 @@
 <root>
   <row>
     <id>incorrectparsing1</id>
-    <title>Nike Air Max 270 - 30minute update</title>
+    <title>test product 27</title>
     <description>Lightweight and stylish sneakers with cushioned sole.</description>
     <link>https://store.example.com/nike-air-max-270</link>
     <image_link>https://hero-ai-tpoligon.bidmatic.io/wp-content/uploads/2025/03/life-without-internet-300x300.jpg</image_link>
@@ -16,10 +16,10 @@
       <value id="shopping/home/bathroom/towels/"/>
     </facet>
     <facet code="seller_type">
-      <value id="marketplace"/>marketplace</value>
+      <value id="marketplace">marketplace</value>
     </facet>
     <facet code="top">
-      <value id="combination-top"/>Комбінований верх</value>
+      <value id="combination-top">Комбінований верх</value>
     </facet>
   </row>
 </root>
