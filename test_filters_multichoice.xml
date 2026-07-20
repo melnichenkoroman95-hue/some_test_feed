@@ -268,6 +268,55 @@
 <image_link>https://testqaimage.qa/nothing6.jpg</image_link>
 <link>https://testqaimage.qa/uk-ua/product6</link>
 <price>2500</price>
+<availability>out of stock</availability>
+<brand>Brand_1</brand>
+<category>Gaming</category>
+<merchant>test_filters_merchant</merchant>
+<facets>
+<facet code="category_slug">
+<value id="shopping/catalog/men/computers/"/>
+<value id="shopping/catalog/men/computers/laptops/"/>
+</facet>
+<facet code="size">
+<value id="45">45</value>
+<value id="46">46</value>
+<value id="47">47</value>
+<value id="48">48</value>
+</facet>
+<facet code="seller_type">
+<value id="marketplace">marketplace</value>
+</facet>
+<facet code="top">
+<value id="steel">steel</value>
+</facet>
+<facet code="country">
+<value id="germany">Germany</value>
+</facet>
+<facet code="gender">
+<value id="none">none</value>
+</facet>
+<facet code="color">
+<value id="black">black</value>
+<value id="chrome">chrome</value>
+</facet>
+<facet code="season">
+<value id="all">all</value>
+</facet>
+<facet code="category">
+<value id="electronic">electronic</value>
+</facet>
+<facet code="brand">
+<value id="hp">HP</value>
+</facet>
+</facets>
+<article>7f185740-ca48-11ee-acf6-0050568cbfcf</article>
+</product>
+  <product>
+<id>intfiltsetup7</id>
+<title>test product 7</title>
+<image_link>https://testqaimage.qa/nothing6.jpg</image_link>
+<link>https://testqaimage.qa/uk-ua/product6</link>
+<price></price>
 <availability>in stock</availability>
 <brand>Brand_1</brand>
 <category>Gaming</category>
