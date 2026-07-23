@@ -5,8 +5,8 @@
 <url>https://testqa.vrs.ua/</url>
 <offers>
 <offer>
-<product_id>4</product_id>
-<product_name>Тестовий продукт номер 4</product_name>
+<product_id>5</product_id>
+<product_name>Тестовий продукт номер 5</product_name>
 <product_name_ru>Средство для мытья посуды Gala Парижский аромат, 500 мл</product_name_ru>
 <link>https://testqa.vrs.ua/ridina-d-mit-pos-parizk-arom-gala-500g</link>
 <link_ru>https://testqa.vrs.ua/ru/ridina-d-mit-pos-parizk-arom-gala-500g</link_ru>
@@ -108,11 +108,11 @@
 </params>
 </offer>
 <offer>
-<product_id>5</product_id>
-<product_name>Тестовий продукт номер 5</product_name>
+<product_id>6</product_id>
+<product_name>Тестовий продукт номер 6</product_name>
 <product_name_ru>тест інша мова</product_name_ru>
-<link>https://testqa.vrs.ua/testqa-product-5</link>
-<link_ru>https://testqa.vrs.ua/ru/testqa-product-5</link_ru>
+<link>https://testqa.vrs.ua/testqa-product-6</link>
+<link_ru>https://testqa.vrs.ua/ru/testqa-product-6</link_ru>
 <image_url>https://hero-ai-tpoligon.bidmatic.io/wp-content/uploads/2025/03/coffee-procrast-1-300x300.jpg</image_url>
 <stock>in stock</stock>
 <brand>Test vrs</brand>
@@ -211,11 +211,11 @@
 </params>
 </offer>
 <offer>
-<product_id>6</product_id>
-<product_name>Тестовий продукт номер 6</product_name>
-<product_name_ru>тест інша мова pi6</product_name_ru>
-<link>https://testqa.vrs.ua/testqa-product-6</link>
-<link_ru>https://testqa.vrs.ua/ru/testqa-product-6</link_ru>
+<product_id>7</product_id>
+<product_name>Тестовий продукт номер 7</product_name>
+<product_name_ru>тест інша мова pi7</product_name_ru>
+<link>https://testqa.vrs.ua/testqa-product-7</link>
+<link_ru>https://testqa.vrs.ua/ru/testqa-product-7</link_ru>
 <image_url>https://hero-ai-tpoligon.bidmatic.io/wp-content/uploads/2025/03/coffee-procrast-1-300x300.jpg</image_url>
 <stock>in stock</stock>
 <brand>Test vrs</brand>
