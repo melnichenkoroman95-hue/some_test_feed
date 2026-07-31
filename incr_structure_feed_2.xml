@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <id>6</id>
+    <title>test product 6</title>
+    <description>Lightweight and stylish sneakers with cushioned sole.</description>
+    <link>https://store.example.com/nike-air-max-270</link>
+    <image_link>https://hero-ai-tpoligon.bidmatic.io/wp-content/uploads/2025/03/life-without-internet-300x300.jpg</image_link>
+    <price>125.00</price>
+    <availability>in stock</availability>
+    <brand>Nike</brand>
+    <category>Shoes &gt; Men&apos;s Shoes &gt; Sneakers</category>
+    <merchant>test_merchant_2</merchant>
+    <facet code="category_slug">
+      <value id="shopping/home/bathroom/"/>
+      <value id="shopping/home/bathroom/towels/"/>
+    </facet>
+    <facet code="seller_type">
+      <value id="marketplace"/>marketplace</value>
+    </facet>
+    <facet code="top">
+      <value id="combination-top"/>Комбінований верх</value>
+    </facet>
+  </row>
+</root>
