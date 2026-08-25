@@ -5,7 +5,7 @@
 <url>https://magento-uat.varus.ua/</url>
 <offers>
 <offer>
-<product_id>10</product_id>
+<product_id>12</product_id>
 <product_name>Засіб для миття посуду Gala Паризький аромат, 500 мл</product_name>
 <product_name_ru>Средство для мытья посуды Gala Парижский аромат, 500 мл</product_name_ru>
 <link>https://magento-uat.varus.ua/ridina-d-mit-pos-parizk-arom-gala-500g</link>
@@ -108,7 +108,7 @@
 </params>
 </offer>
 <offer>
-<product_id>11</product_id>
+<product_id>13</product_id>
 <product_name>Тестовий продукт номер 11</product_name>
 <product_name_ru>тест інша мова</product_name_ru>
 <link>https://varus.ua/testqa-product</link>
