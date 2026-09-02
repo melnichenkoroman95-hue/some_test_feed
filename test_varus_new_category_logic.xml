@@ -5,7 +5,6 @@
 <url>https://magento-uat.varus.ua/</url>
 <categories>
 	<category id="4" parentId="">Головна</category>
-	<category>Побутова хімія</category>
 	<category id="41" parentId="40">Засоби для миття посуду</category>
 </categories>
 <offers>
