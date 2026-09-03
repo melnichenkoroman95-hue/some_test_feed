@@ -7,7 +7,11 @@
 	<category id="4" parentId="">Головна</category>
 	<category id="40" parentId="4">Побутова хімія</category>
 	<category id="41" parentId="40">Засоби для миття посуду</category>
-	<category id="42" parentId="123">Без ГМО</category>
+	<category id="42" parentId="41">Без ГМО</category>
+	<category id="5" parentId="">Другорядна</category>
+	<category id="50" parentId="5">Одяг</category>
+	<category id="51" parentId="50">Верхній Одяг</category>
+	<category id="52" parentId="51">Куртки</category>
 </categories>
 <offers>
 <offer>
@@ -319,7 +323,7 @@
 </param>
 </params>
 </offer>
-	<offer>
+<offer>
 <product_id>25</product_id>
 <product_name>Тестовий продукт номер 25</product_name>
 <product_name_ru>тест інша мова</product_name_ru>
@@ -329,6 +333,315 @@
 <stock>in stock</stock>
 <brand>Test</brand>
 <categoryId>42</categoryId>
+<shops>
+<shop id="1001" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1033" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1035" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1036" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1038" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1041" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1043" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1049" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1052" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1053" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1057" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1058" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1059" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1060" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1062" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1082" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1083" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1084" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1087" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1089" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1090" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1091" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1093" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1094" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1097" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1098" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1099" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1100" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1105" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1106" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1107" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1108" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1109" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1110" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1111" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1112" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1113" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1149" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1050" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1114" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1116" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1173" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1169" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1178" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1176" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1175" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1174" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1138" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1132" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1170" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1180" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1182" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1190" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1191" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1192" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="2101" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1194" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1003" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1181" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1172" qty="0" qty_original="0" in_stock="true" price="20" sort_price="15"/>
+<shop id="1197" qty="0" qty_original="0" in_stock="true" price="30" sort_price="16"/>
+<shop id="1047" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1144" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1158" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="dnipro" price="0" in_stock="false" sort_price="0"/>
+<shop id="kyiv" price="0" in_stock="false" sort_price="0"/>
+<shop id="zaporizhzhia" price="1" in_stock="true" sort_price="1"/>
+<shop id="kryvyi-rih" price="2" in_stock="true" sort_price="1"/>
+<shop id="odesa" price="0" in_stock="false" sort_price="0"/>
+<shop id="default" price="0" in_stock="false" sort_price="0"/>
+</shops>
+<available>true</available>
+<params>
+<param name="Країна виробництва">Німеччина</param>
+<param name="Фірмова серія">Тестовий ароматт</param>
+<param name="Формат засобу">вода</param>
+<param name="Призначення">для машинки</param>
+<param name="Органічні">ні</param>
+<param name="Містить хлор">так</param>
+<param name="Термін зберігання товару">20</param>
+<param name="Температура зберігання">+90 до,ºC</param>
+<param name="Умови зберігання">Не доступне для дітей місце</param>
+<param name="Склад">&lt;5% аніонні ПАР, &lt;5% неіоногенні ПАР, консерванти, ароматизатори, лімонен</param>
+<param name="Об'єм">10 мл</param>
+<param name="Вид тари / пакунку">пластикова пляшка з клапаном</param>
+<param name="picture_attributes">
+<tag_online_only>false</tag_online_only>
+<tag_cashback_icon>true</tag_cashback_icon>
+<tag_winter_icon>false</tag_winter_icon>
+</param>
+</params>
+</offer>
+<offer>
+<product_id>26</product_id>
+<product_name>Тестовий продукт номер 26</product_name>
+<product_name_ru>тест інша мова</product_name_ru>
+<link>https://varus.ua/testqa-product</link>
+<link_ru>https://varus.ua/ru/testqa-product</link_ru>
+<image_url>https://hero-ai-tpoligon.bidmatic.io/wp-content/uploads/2025/03/coffee-procrast-1-300x300.jpg</image_url>
+<stock>in stock</stock>
+<brand>Test</brand>
+<categoryId>50</categoryId>
+<shops>
+<shop id="1001" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1033" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1035" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1036" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1038" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1041" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1043" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1049" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1052" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1053" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1057" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1058" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1059" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1060" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1062" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1082" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1083" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1084" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1087" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1089" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1090" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1091" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1093" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1094" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1097" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1098" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1099" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1100" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1105" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1106" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1107" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1108" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1109" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1110" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1111" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1112" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1113" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1149" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1050" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1114" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1116" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1173" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1169" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1178" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1176" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1175" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1174" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1138" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1132" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1170" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1180" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1182" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1190" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1191" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1192" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="2101" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1194" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1003" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1181" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1172" qty="0" qty_original="0" in_stock="true" price="20" sort_price="15"/>
+<shop id="1197" qty="0" qty_original="0" in_stock="true" price="30" sort_price="16"/>
+<shop id="1047" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1144" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1158" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="dnipro" price="0" in_stock="false" sort_price="0"/>
+<shop id="kyiv" price="0" in_stock="false" sort_price="0"/>
+<shop id="zaporizhzhia" price="1" in_stock="true" sort_price="1"/>
+<shop id="kryvyi-rih" price="2" in_stock="true" sort_price="1"/>
+<shop id="odesa" price="0" in_stock="false" sort_price="0"/>
+<shop id="default" price="0" in_stock="false" sort_price="0"/>
+</shops>
+<available>true</available>
+<params>
+<param name="Країна виробництва">Німеччина</param>
+<param name="Фірмова серія">Тестовий ароматт</param>
+<param name="Формат засобу">вода</param>
+<param name="Призначення">для машинки</param>
+<param name="Органічні">ні</param>
+<param name="Містить хлор">так</param>
+<param name="Термін зберігання товару">20</param>
+<param name="Температура зберігання">+90 до,ºC</param>
+<param name="Умови зберігання">Не доступне для дітей місце</param>
+<param name="Склад">&lt;5% аніонні ПАР, &lt;5% неіоногенні ПАР, консерванти, ароматизатори, лімонен</param>
+<param name="Об'єм">10 мл</param>
+<param name="Вид тари / пакунку">пластикова пляшка з клапаном</param>
+<param name="picture_attributes">
+<tag_online_only>false</tag_online_only>
+<tag_cashback_icon>true</tag_cashback_icon>
+<tag_winter_icon>false</tag_winter_icon>
+</param>
+</params>
+</offer>
+<offer>
+<product_id>27</product_id>
+<product_name>Тестовий продукт номер 27</product_name>
+<product_name_ru>тест інша мова</product_name_ru>
+<link>https://varus.ua/testqa-product</link>
+<link_ru>https://varus.ua/ru/testqa-product</link_ru>
+<image_url>https://hero-ai-tpoligon.bidmatic.io/wp-content/uploads/2025/03/coffee-procrast-1-300x300.jpg</image_url>
+<stock>in stock</stock>
+<brand>Test</brand>
+<categoryId>51</categoryId>
+<shops>
+<shop id="1001" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1033" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1035" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1036" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1038" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1041" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1043" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1049" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1052" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1053" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1057" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1058" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1059" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1060" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1062" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1082" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1083" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1084" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1087" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1089" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1090" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1091" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1093" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1094" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1097" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1098" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1099" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1100" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1105" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1106" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1107" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1108" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1109" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1110" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1111" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1112" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1113" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1149" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1050" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1114" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1116" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1173" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1169" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1178" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1176" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1175" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1174" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1138" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1132" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1170" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1180" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1182" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1190" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1191" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1192" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="2101" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1194" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1003" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1181" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1172" qty="0" qty_original="0" in_stock="true" price="20" sort_price="15"/>
+<shop id="1197" qty="0" qty_original="0" in_stock="true" price="30" sort_price="16"/>
+<shop id="1047" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1144" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="1158" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+<shop id="dnipro" price="0" in_stock="false" sort_price="0"/>
+<shop id="kyiv" price="0" in_stock="false" sort_price="0"/>
+<shop id="zaporizhzhia" price="1" in_stock="true" sort_price="1"/>
+<shop id="kryvyi-rih" price="2" in_stock="true" sort_price="1"/>
+<shop id="odesa" price="0" in_stock="false" sort_price="0"/>
+<shop id="default" price="0" in_stock="false" sort_price="0"/>
+</shops>
+<available>true</available>
+<params>
+<param name="Країна виробництва">Німеччина</param>
+<param name="Фірмова серія">Тестовий ароматт</param>
+<param name="Формат засобу">вода</param>
+<param name="Призначення">для машинки</param>
+<param name="Органічні">ні</param>
+<param name="Містить хлор">так</param>
+<param name="Термін зберігання товару">20</param>
+<param name="Температура зберігання">+90 до,ºC</param>
+<param name="Умови зберігання">Не доступне для дітей місце</param>
+<param name="Склад">&lt;5% аніонні ПАР, &lt;5% неіоногенні ПАР, консерванти, ароматизатори, лімонен</param>
+<param name="Об'єм">10 мл</param>
+<param name="Вид тари / пакунку">пластикова пляшка з клапаном</param>
+<param name="picture_attributes">
+<tag_online_only>false</tag_online_only>
+<tag_cashback_icon>true</tag_cashback_icon>
+<tag_winter_icon>false</tag_winter_icon>
+</param>
+</params>
+</offer>
+<offer>
+<product_id>28</product_id>
+<product_name>Тестовий продукт номер 28</product_name>
+<product_name_ru>тест інша мова</product_name_ru>
+<link>https://varus.ua/testqa-product</link>
+<link_ru>https://varus.ua/ru/testqa-product</link_ru>
+<image_url>https://hero-ai-tpoligon.bidmatic.io/wp-content/uploads/2025/03/coffee-procrast-1-300x300.jpg</image_url>
+<stock>in stock</stock>
+<brand>Test</brand>
+<categoryId>52</categoryId>
 <shops>
 <shop id="1001" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
 <shop id="1033" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
