@@ -5,7 +5,7 @@
 <url>https://magento-uat.varus.ua/</url>
 <categories>
 	<category id="2" parentId="">Main</category>
-	<category>Electronics</category>
+	<category id="20" parentId="2">Electronics</category>
 	<category id="21" parentId="20">Personal Computer</category>
 	<category id="22" parentId="21">Cheap</category>
 </categories>
